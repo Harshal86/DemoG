@@ -7,5 +7,7 @@ public class DemoGit
 	{
 	
 		System.out.println("Hello rakesh");
+		System.out.println("Hello chinise");
+		
 	}
 }
